@@ -4,33 +4,12 @@
   <img src="https://i.ibb.co/CVyrh8b/super-UIBanner8.jpg" width="75%">
 </a>
 
-![GitHub releases](https://img.shields.io/github/release/pheralb/superui)
-![GitHub stars](https://img.shields.io/github/stars/pheralb/superui)
-![GitHub issues](https://img.shields.io/github/issues/pheralb/superui)
-![GitHub license](https://img.shields.io/github/license/pheralb/superui)
-[![Required Node.JS >= 14.18.0 || >=16.0.0](https://img.shields.io/static/v1?label=node&message=14.18.0%20||%20%3E=16.0.0&logo=node.js&color=3f893e)](https://nodejs.org/about/releases)
-
 </div>
 
 ## 💚 [Supabase Launch Week 5](https://supabase.com/launch-week) Hackathon:
 
 - ✅ [Supabase Auth](https://supabase.com/docs/guides/auth) - User authentication.
 - ✅ [Supabase Database](https://supabase.com/docs/guides/database) - save the information of each user-created component.
-
-
-## 💖 Maintainers:
-
-|               | ✌️ Socials                                                                              |
-| ------------- | --------------------------------------------------------------------------------------- |
-| Pablo Hdez    | [GitHub](https://github.com/pheralb/superui) - [Twitter](https://twitter.com/pheralb_)  |
-| Nacho Aldama  | [GitHub](https://github.com/nachoaldamav) - [Twitter](https://twitter.com/srdrabx) |
-| David Huertas | [GitHub](https://github.com/ikurotime) - [Twitter](https://twitter.com/ikurotime)       |
-| Juan Rojas    | [GitHub](https://github.com/Davidr2998) - [Twitter](https://twitter.com/tmchein)        |
-
-## 📹 Video:
-
-- [https://streamable.com/j3lxtb](https://streamable.com/j3lxtb).
-
 
 ## 📦 Packages:
 
@@ -115,6 +94,3 @@ npm run dev
 
 And ready 🥳, go to [localhost:3001](http://localhost:3001/).
 
-## 🔑 License:
-
-- [MIT License](https://github.com/pheralb/superui).
